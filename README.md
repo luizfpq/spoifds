@@ -1,8 +1,8 @@
 # spoifds
 Arquivos da disciplina de IFDS
 
-ALUNO1: Levi Olimpio Cruz
+ALUNO1: Pedro Antonio Ferrareze Simões Blaya
 
 ALUNO2: Kevin Santos Diakov
 
-ALUNO3: Pedro Antonio Ferrareze Simões Blaya
+ALUNO3: Levi Olimpio Cruz
